@@ -4,6 +4,8 @@
   --bg-color: #1E201E;
   --primary-color: #697565;
   --secundary-color: #ECDFCC;
-  --font: ""Noto Sans", sans-serif;
+  --font: "Noto Sans", sans-serif;
 }
- 
+ body {
+   background-color: var(--bg-color);
+ }
